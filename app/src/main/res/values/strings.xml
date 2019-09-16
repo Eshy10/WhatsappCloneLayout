@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+
+    <string-array name="image">
+        <item>@drawable/inshot</item>
+        <item>@drawable/girl</item>
+        <item>@drawable/girlie</item>
+        <item>@drawable/photo</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Teenah</item>
+        <item>Mitchelle</item>
+        <item>Trisha</item>
+        <item>Riri</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Hi, how are you doing?</item>
+        <item>Yo Bitch!</item>
+        <item>Are you still coming around?</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>10:00am</item>
+        <item>Yesterday</item>
+        <item>12:05pm</item>
+        <item>11:00am</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
